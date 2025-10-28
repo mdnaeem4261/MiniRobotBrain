@@ -10,7 +10,3 @@ and responds logically like a real robot’s brain.
 - Report current position and direction
 - Simple logic simulation (no graphics)
 
-## How to Run
-1. Install Python (version 3+)
-2. Run the program:
-
